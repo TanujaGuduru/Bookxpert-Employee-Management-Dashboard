@@ -1,4 +1,4 @@
-# Employee Management Dashboard
+# Bookxpert Employee Management Dashboard
 
 A React.js web application for managing employee data with authentication, CRUD operations, and modern UI design.
 
